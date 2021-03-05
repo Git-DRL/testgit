@@ -6,5 +6,6 @@ public class Main {
         System.out.println("test test");
         
         String a = "回复"；
+        int c= 30;
     }
 }
