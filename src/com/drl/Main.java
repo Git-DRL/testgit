@@ -7,5 +7,6 @@ public class Main {
         int c= 30;
         int b  = 10;
         String a = "回复";
+        System.out.println("最终效果");
     }
 }
